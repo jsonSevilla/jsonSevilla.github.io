@@ -1,0 +1,43 @@
+@import "jekyll-theme-tactile";
+
+.nba-card {
+  max-width: 320px;
+  margin: 2rem auto;
+  background: #1e1e1e;
+  color: #fff;
+  border-radius: 12px;
+  padding: 16px;
+  font-family: sans-serif;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+.nba-card .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #444;
+  padding-bottom: 8px;
+}
+.nba-card .header h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+.nba-card .ovr {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.stats {
+  margin-top: 16px;
+}
+.stat {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+  font-size: 1rem;
+}
+.stat span:first-child {
+  flex-grow: 1;
+}
+.stat span:last-child {
+  font-weight: bold;
+}
+
