@@ -10,29 +10,35 @@ Cybersecurity Educator | Threat Hunter | AI Workflow Architect
 ---
 
 ## 📌 About Me
-I'm a cybersecurity professional with expertise in red teaming, detection engineering, and AI automation. I teach, I build, and I secure.
+I'm a cybersecurity professional with expertise in SOC investigative methods, detection engineering, and AI automation. I teach, I build, and I secure.
+
+
+## 🧾 Explore My Profile
+
+Want to see my skill ratings and track record?  
+👉 [Check out my interactive resume](/resume/)
 
 ---
 
 ## 🧰 Projects
-- [Super Awesome Project](https://github.com/sproogen): A showcase project for testing Tactile.
+- [AI-Drive Day Trading]
 - [AI-Driven Portfolio](https://github.com/jsonSevilla/jsonSevilla.github.io): Built with GitHub Pages and Jekyll.
 
 ---
 
 ## 💼 Experience
-**Senior Network System Administrator** @ The Boring Company  
-*Nov 2017 – Present*  
-Led a team of 5 managing network systems and connectivity for critical infrastructure.
+**Threat Hunter** @ Cigna (Sep 2020 – May 2025)  
 
-**BSc Computer Science** @ Harvard University (2010–2013)  
-Focused on system architecture, cybersecurity, and technical leadership.
+**Lead Instructor** @ ThriveDX (Jul 2020 – Present)
+
+**Sr. Cyber Intelligence Analyst** @ UPS Info Systems (May 2015 – Sep 2020)
+
 
 ---
 
 ## 🎓 Education
-**Harvard University**  
-BSc Computer Science, 2010–2013
+**NJIT**  
+BS Information Technology (2013-2017)
 
 ---
 
